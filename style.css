@@ -1,0 +1,40 @@
+body{
+    padding: 100px;
+}
+.login-area{
+    width: 80%;
+    margin:0 auto;
+}
+.submit-area{
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 30px;
+}
+#transection-area{
+    display: none;
+    width: 80%;
+    margin: 0 auto;
+}
+.stutus{
+    padding:20px;
+    border-radius: 10px;
+    color: #fff;
+    margin: 0px 20px;
+}
+.diposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: #E79267;
+}
+.blance{
+    background-color: orange;
+}
+
+.transaction-area-form{
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 30px;
+}
